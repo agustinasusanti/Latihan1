@@ -37,3 +37,6 @@ Perintah untuk mengupload file yang ada pada repositori lokal ke repositori onli
 # Keenam
 Setelah melakukan semua perintah silahkan cek di github, apakah file yang di upload sudah masuk atau tidak?jika sudah masuk akan seperti tampilan dibawah
 ![image](https://user-images.githubusercontent.com/44330056/51526951-10458600-1e66-11e9-8a64-3742faeacd89.png)
+
+Sekian penjelasan penggunaan Git dari saya, mohon maaf apabila ada kesalahan atau penjelasan yang kurang tepat.
+Terimakasih..
