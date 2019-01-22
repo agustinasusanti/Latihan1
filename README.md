@@ -1,5 +1,5 @@
 # Latihan1
-# APA ITU GIT DAN GITHUB
+# APA ITU GIT DAN GITHUB?
 Git adalah perangkat lunak pengontrol versi atau proyek manajemen kode perangkat lunak yang diciptakan oleh Linus Torvalds, yang pada awalnya ditujukan untuk pengembangan kernel Linux. Desain Git terinspirasi oleh BitKeeper dan Monotone.
 Sedangkan Github adalah aplikasi berbasis website yang memberikan layanan berupa penyimpanan repository secara gratis. Apa itu Repository? Repositori adalah tempat dimana Anda dapat menyimpan file-file berupa source code. Github juga merupakan Version Control (VCS) yang paling populer.
 # CARA PENGGUNAAN GIT
